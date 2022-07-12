@@ -20,8 +20,8 @@
 
 title: devcecy
 email: im.ceciliaan@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-devcecy blog
+description: 머릿속 데이터를 블로그에 기록합니다. 
+>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devcecy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
