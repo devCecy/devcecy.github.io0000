@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: devCecy
+title: devcecy
 email: im.ceciliaan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-머릿속 데이터를 블로그에 할당합니다.
+devcecy blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devcecy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
-github_username: devCecy
+github_username: devcecy
 
 # Build settings
 theme: minima
